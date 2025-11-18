@@ -15,8 +15,6 @@ vendor/
 go.work
 go.work.sum
 
-.env
-
 .DS_Store
 .idea/
 .vscode/
